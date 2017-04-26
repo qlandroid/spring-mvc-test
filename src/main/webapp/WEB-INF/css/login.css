@@ -1,0 +1,24 @@
+		#div_head {
+  			margin:auto;
+  			width:840px;
+  			height:50px;
+  			background-color:BurlyWood;
+  		}
+  		#div_top {
+  			margin:auto;
+  			width:840px;
+  			height:130px;
+  			background-color:red;
+  		}
+  		#div_content{
+  			margin:auto;
+  			width:840px;
+  			height:600px;
+  			background-color:black;
+  		}
+  		#div_foot{
+  			margin:auto;
+  			width:840px;
+  			height:130px;
+  			background-color:blue;
+  		}
